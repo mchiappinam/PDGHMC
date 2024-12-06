@@ -1,0 +1,9 @@
+name: PDGHMC
+main: me.mchiappinam.pdghmc.Main
+author: mchiappinam
+version: 1.0
+website: http://pdgh.com.br/
+commands:
+   mc:
+      description: Info.
+      usage: /<command>
